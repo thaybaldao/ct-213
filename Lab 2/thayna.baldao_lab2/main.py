@@ -8,8 +8,8 @@ import time
 
 # Select planning algorithm
 algorithm = 'dijkstra'
-#algorithm = 'greedy'
-#algorithm = 'a_star'
+# algorithm = 'greedy'
+# algorithm = 'a_star'
 
 # Number of path plannings used in the Monte Carlo analysis
 num_iterations = 1
